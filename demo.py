@@ -121,7 +121,7 @@ def main():
 
     log(">>> 开始执行强制下线 <<<")
     logoff_all_rdp_sessions()
-    log(">>> 执行完毕 <<<")
+    log(">>>> 执行完毕 <<<<")
 
     time.sleep(60)
 
